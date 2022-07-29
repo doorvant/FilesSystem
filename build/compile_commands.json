@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/guests/190110611/user-land-filesystem/fs/dearfs/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/guests/190110611/user-land-filesystem/fs/dearfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/naivefs.dir/src/naivefs.c.o   -c /home/guests/190110611/user-land-filesystem/fs/dearfs/src/naivefs.c",
+  "file": "/home/guests/190110611/user-land-filesystem/fs/dearfs/src/naivefs.c"
+},
+{
+  "directory": "/home/guests/190110611/user-land-filesystem/fs/dearfs/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/guests/190110611/user-land-filesystem/fs/dearfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/naivefs.dir/src/naivefs_driver.c.o   -c /home/guests/190110611/user-land-filesystem/fs/dearfs/src/naivefs_driver.c",
+  "file": "/home/guests/190110611/user-land-filesystem/fs/dearfs/src/naivefs_driver.c"
+},
+{
+  "directory": "/home/guests/190110611/user-land-filesystem/fs/dearfs/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/guests/190110611/user-land-filesystem/fs/dearfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/naivefs.dir/src/naivefs_funct.c.o   -c /home/guests/190110611/user-land-filesystem/fs/dearfs/src/naivefs_funct.c",
+  "file": "/home/guests/190110611/user-land-filesystem/fs/dearfs/src/naivefs_funct.c"
+},
+{
+  "directory": "/home/guests/190110611/user-land-filesystem/fs/dearfs/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/guests/190110611/user-land-filesystem/fs/dearfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/naivefs.dir/src/naivefs_struct.c.o   -c /home/guests/190110611/user-land-filesystem/fs/dearfs/src/naivefs_struct.c",
+  "file": "/home/guests/190110611/user-land-filesystem/fs/dearfs/src/naivefs_struct.c"
+}
+]

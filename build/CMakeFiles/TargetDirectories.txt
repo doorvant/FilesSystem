@@ -1,0 +1,3 @@
+/home/guests/190110611/user-land-filesystem/fs/dearfs/build/CMakeFiles/rebuild_cache.dir
+/home/guests/190110611/user-land-filesystem/fs/dearfs/build/CMakeFiles/edit_cache.dir
+/home/guests/190110611/user-land-filesystem/fs/dearfs/build/CMakeFiles/naivefs.dir

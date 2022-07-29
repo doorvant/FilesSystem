@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-gcc-9  -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g  -rdynamic CMakeFiles/naivefs.dir/src/naivefs.c.o CMakeFiles/naivefs.dir/src/naivefs_driver.c.o CMakeFiles/naivefs.dir/src/naivefs_funct.c.o CMakeFiles/naivefs.dir/src/naivefs_struct.c.o  -o naivefs  -lfuse /home/guests/190110611/lib/libddriver.a 
